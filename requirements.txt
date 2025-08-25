@@ -1,0 +1,41 @@
+# Email and Authentication
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.108.0
+imapclient==2.3.1
+
+# Database
+sqlalchemy==2.0.23
+
+# AI/LLM
+openai==1.3.8
+tiktoken==0.5.1
+
+# Web Search
+requests==2.31.0
+
+# Slack Integration
+slack-sdk==3.26.1
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.11.7
+pydantic-settings==2.10.1
+email-validator==2.1.0
+beautifulsoup4==4.12.2
+markdown2==2.4.10
+
+# Development and Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.10.1
+flake8==6.1.0
+
+# Logging and Configuration
+structlog==23.2.0
+pyyaml==6.0.1
+
+# Date/Time handling
+python-dateutil==2.8.2
+pytz==2023.3
